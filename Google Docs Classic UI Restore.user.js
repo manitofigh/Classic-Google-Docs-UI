@@ -122,7 +122,7 @@ body {
     content: url(//ssl.gstatic.com/docs/common/material_common_sprite496_green.svg);
 }
 
-.goog-inline-block:not(#docs-revisions-appbarbutton.jfk-button):not(#docs-docos-commentsbutton):not(#docs-meet-in-editors-entrypointbutton):hover {
+.goog-inline-block:hover {
     border-radius: 2px;
     background-color: #f0f1f0;
 }
