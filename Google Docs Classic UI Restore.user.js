@@ -4,6 +4,7 @@
 // @version      1.0
 // @description  Bring back the classic look of Google docs!
 // @author       Mani Tofigh
+// @license      GPL-3.0-or-later
 // @match        https://docs.google.com/document/d/*/edit*
 // @grant        none
 // ==/UserScript==
